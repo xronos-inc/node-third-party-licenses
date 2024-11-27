@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: (c) 2024 Xronos Inc.
+# SPDX-License-Identifier: BSD-3-Clause
+
+# npm
+node_modules/
+
+# build output
+licenses.json
+third-party-licenses/
+THIRD_PARTY_LICENSES.md

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "license-checker": "^25.0.1",
+    "serve": "^14.2.4"
+  },
+  "scripts": {
+    "build": "",
+    "serve": "npx serve ."
+  }
+}
